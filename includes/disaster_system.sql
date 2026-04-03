@@ -57,3 +57,5 @@ INSERT INTO authorities (name, contact_phone, coverage_area, status) VALUES
 ('Nairobi Fire Dept', '0722345678', 'Nairobi County', 'active'),
 ('Kenya Red Cross', '0733456789', 'Nationwide', 'active'),
 ('Nairobi Police', '0744567890', 'Nairobi CBD', 'active');
+
+-- This is a test
